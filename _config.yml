@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "blog"
+title                    : "계획이 있습니다."
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "저도 잘 모르지만요." # site tagline that appears below site title in masthead
 name                     : "sk shim"
 description              : "posts"
 url                      : "https://plainOldCode.github.io"
